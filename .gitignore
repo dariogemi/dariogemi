@@ -1,0 +1,35 @@
+# Standard ignores for a documentation-first portfolio repo.
+# No build artifacts, secrets, or local tooling state should ever be committed.
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (only if small utilities are ever added)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node (only if tooling is ever added)
+node_modules/
+
+# Secrets — never commit these (placeholder rules; this repo holds no secrets)
+*.pem
+*.key
+.env
+secrets.yaml
+claves/
+
+# Local drafts
+*.bak
+*.tmp
+ drafts/
