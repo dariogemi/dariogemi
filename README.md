@@ -77,7 +77,7 @@ Supporting evidence of current hands-on depth — the professional identity abov
 | [Edge observability & autonomous caretaker](projects/edge-observability-caretaker.md) | Silent degradation on a constrained host | Layered detection, risk-classified remediation (L1/L2/L3), runbooks |
 | [Local-first IoT migrations](projects/local-first-iot-migrations.md) | Cloud dependence for local devices | Multi-evidence device identity, staged migration, no registry hacks |
 
-Details, architecture sketches, and explicit non-claims live in [`projects/`](projects/). An internal evidence ledger mapping every major claim to its source (CV, versioned lab repo, or declared lab activity) is kept in [`docs/evidence-map.md`](docs/evidence-map.md).
+Details and architecture sketches for public sharing live in [`projects/`](projects/). This portfolio includes selected professional experience and technical case studies; private validation notes and internal evidence records are intentionally kept out of the public repository.
 
 ## Contact
 
